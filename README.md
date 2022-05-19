@@ -9,7 +9,6 @@
   </a>
 </div>
 
-## 
 
 ## Trabalhando com
  <div style="display: inline_block">
