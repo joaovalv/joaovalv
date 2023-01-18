@@ -1,14 +1,5 @@
 ### Bem vindo! 👋
 
-
-
-<div align="center">
-  <a href="https://github.com/joaovalv/convoychat">
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovalv&layout=compact&theme=dark"/>
-  </a>
-</div>
-
-
 ## Working with
  <div style="display: inline_block">
   <img align="center" alt="Delphi" src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white" />
